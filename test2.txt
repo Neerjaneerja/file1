@@ -9,3 +9,9 @@ to add a file from working area to repositary area(working area means desktop fi
   to check status command="git status"
   comand="git commit -m "test2.txt file added" 
   command= "git push origin main" 
+.....................................................................
+delete file 
+   to check status command="git status"
+   repositary command="git add text2.txt"
+  comand="git commit -m deleted test2.txt
+  command= "git push origin main" 
