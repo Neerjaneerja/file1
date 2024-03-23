@@ -1,0 +1,11 @@
+repositary created in website .
+a file is created inside 
+to work with file in repositary ..clone repositary is created.
+open the clone repositary in vscode.
+...................................................................
+to add a file from working area to repositary area(working area means desktop file downloaded from repositary to work )
+  create a file in vscodde by clicking specific folder
+  to add file2 in repositary command="git add text2.txt" (added to folder) to track the file from desktop to repositary
+  to check status command="git status"
+  comand="git commit -m "test2.txt file added" 
+  command= "git push origin main" 
